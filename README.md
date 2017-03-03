@@ -8,3 +8,6 @@ author: e-p-i (e_p_i, epi)
 [http://e-p-i.hatenablog.com/](http://e-p-i.hatenablog.com/)  
 [https://twitter.com/twit_e_p_i/](https://twitter.com/twit_e_p_i/)  
 [https://twitter.com/twit_e_p_i_priv/](https://twitter.com/twit_e_p_i_priv/))  
+
+
+GitHubでやれ？いやぁ、本当に信用出来るのですかね？GitHubとそのGitHub JapanとDigiCertと日本のIX等々は。怪しさぷんぷんな感じがするのですが。（GitHub本体のみは多少信用しなくはないのですが。）
